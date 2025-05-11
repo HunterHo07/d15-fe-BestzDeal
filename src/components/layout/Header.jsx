@@ -28,7 +28,6 @@ const Header = () => {
   }, [location]);
 
   const links = [
-    { name: 'Home', path: '/' },
     { name: 'Demo', path: '/demo' },
     { name: 'Pitch Deck', path: '/pitch-deck' },
     { name: 'Why Us', path: '/why-us' },
