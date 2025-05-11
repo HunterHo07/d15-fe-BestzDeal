@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/wind6/', // GitHub repository name for GitHub Pages
+  base: '/d15-fe-BestzDeal/', // Correct repository name for GitHub Pages
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
