@@ -97,7 +97,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-View the live demo at: [https://yourusername.github.io/bestz-deal](https://yourusername.github.io/bestz-deal)
+View the live demo at: [[bestz](https://hunterho07.github.io/d15-fe-BestzDeal/)])
 
 ## 📄 License
 
